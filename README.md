@@ -41,7 +41,25 @@ This helps the algorithm efficiently find the shortest path.
 ## ▶️ How to Run
 
 1. Make sure Python 3.11 is installed  
-2. Install pygame:
+2. Install pygame: py -3.11 main.py
+
+## 📚 Learning Outcomes
+Understanding of A* pathfinding algorithm
+Use of heuristics in AI
+Visualization of algorithm behavior
+Event-driven programming using Pygame
+
+##🚀 Future Improvements
+Add diagonal movement
+Implement multiple heuristics (Euclidean, etc.)
+Add speed control for visualization
+Improve UI/UX design
+
+## 🙌 Acknowledgment
+
+This project was developed as part of an AI/ML assignment to explore real-world applications of search algorithms.
+
+
 
 ```bash
 pip install pygame
