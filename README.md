@@ -59,8 +59,3 @@ Improve UI/UX design
 ## Acknowledgment
 
 This project was developed as part of an AI/ML assignment to explore real-world applications of search algorithms.
-
-
-
-```bash
-pip install pygame
