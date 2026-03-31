@@ -5,20 +5,20 @@ This project is an interactive visualization of the A* (A-Star) pathfinding algo
 
 ---
 
-## 🎯 Features
+## Features
 - Interactive grid-based map
 - Start and end node selection
 - Obstacle placement (blocked roads)
 - Real-time A* pathfinding visualization
 - Color-coded algorithm steps:
-  - 🟠 Open nodes (being explored)
-  - 🟣 Closed nodes (visited)
-  - 🔵 Final shortest path
+  - Open nodes (being explored)
+  - Closed nodes (visited)
+  - Final shortest path
 - Reset functionality (press **C**)
 
 ---
 
-## 🧠 Algorithm Used
+## Algorithm Used
 
 The A* algorithm uses the cost function:
 
