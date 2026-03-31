@@ -32,7 +32,7 @@ This helps the algorithm efficiently find the shortest path.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - Python  
 - Pygame  
 
