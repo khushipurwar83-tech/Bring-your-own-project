@@ -1,4 +1,4 @@
-# 🧠 Smart Route Finder using A* Algorithm
+# Smart Route Finder using A* Algorithm
 
 ## 📌 Overview
 This project is an interactive visualization of the A* (A-Star) pathfinding algorithm, inspired by real-world navigation systems like Google Maps. It demonstrates how the shortest path is calculated between two points in the presence of obstacles.
