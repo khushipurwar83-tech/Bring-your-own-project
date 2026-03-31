@@ -42,6 +42,7 @@ This helps the algorithm efficiently find the shortest path.
 
 1. Make sure Python 3.11 is installed  
 2. Install pygame: py -3.11 main.py
+3. py -3.11 "C:\Users\Khushi\OneDrive\Documents\astar_project\astarfinal.py" (use this in terminal)
 
 ## 📚 Learning Outcomes
 Understanding of A* pathfinding algorithm
@@ -55,7 +56,7 @@ Implement multiple heuristics (Euclidean, etc.)
 Add speed control for visualization
 Improve UI/UX design
 
-## 🙌 Acknowledgment
+## Acknowledgment
 
 This project was developed as part of an AI/ML assignment to explore real-world applications of search algorithms.
 
